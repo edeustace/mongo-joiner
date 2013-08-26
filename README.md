@@ -1,4 +1,4 @@
-# Mongo Query
+# Mongo Joiner
 
 ### The problem
 
